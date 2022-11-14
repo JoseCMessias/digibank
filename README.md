@@ -1,2 +1,2 @@
 # Projeto-DigiBank
-- Projetinho de um app de Banco em console
+- Projeto de um app de Banco em console
